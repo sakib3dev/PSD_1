@@ -1,0 +1,211 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+ul,
+ol {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.clr {
+    clear: both;
+}
+
+/* all common css end here  */
+
+.banner_one{
+    height: 1024px;
+    width: 1920px;
+    background: url(../css/images/Waxom-Hemepage.jpg);
+}
+.header{
+    height: 100px;
+    width: 1920px;
+    position: relative;
+}
+.conteinar{
+    height: 100px;
+    width: 1171px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.logo_menu{
+    height: 70px;
+    width: 1171px;
+    position: absolute;
+    top: 15px;
+    display: flex;
+}
+.menu{
+    width: 677px;
+    height: 70px;
+    padding-left: 300px;
+    display: flex;
+    text-align: right;
+}
+.menu ul li{
+    display: inline-block;
+}
+.menu ul li a{
+    color: white;
+    padding: 0 10px;
+    line-height: 60px;
+    font-family: 'raleway';
+}
+
+
+.conten{
+    height: 924px;
+    width: 1920px;
+}
+.row_one h2 {
+    font-family: 'raleway';
+    color: white;
+    font-size: 30px;
+    padding-left: 787px;
+    padding-top: 270px;
+}
+.row_two h1 {
+    font-family: 'raleway';
+    color: white;
+    font-size: 48px;
+    line-height: 60px;
+    padding-left: 718px;
+    padding-top: 3px;
+}
+.row_three p {
+    font-family: 'raleway';
+    color: white;
+    font-size: 16px;
+    line-height: 27px;
+    padding-left: 718px;
+    padding-top: 3px;
+}
+.row_four p {
+    font-family: 'raleway';
+    color: white;
+    font-size: 16px;
+    padding-left: 789px;
+    padding-top: 3px;
+}
+.row_five img {
+    border-radius: 6px;
+    padding-left: 888px;
+    padding-top: 44px;
+}
+
+
+/* banner two start here  */
+
+
+
+.banner_two{
+     height: 1224px;
+     width: 1920px;
+     background: white;
+    
+}
+.Web_app_desing{
+    height: 265px;
+    width: 280px;
+    margin-top: 81px;
+    margin-left: 375px;
+    float: left;
+}
+.development {
+    height: 265px;
+    width: 280px;
+    margin-top: 90px;
+    float: left;
+}
+.customization {
+    height: 265px;
+    width: 280px;
+    margin-top: 86px;
+    float: left;
+}
+.marketing {
+    height: 265px;
+    width: 280px;
+    margin-top: 94px;
+    float: left;
+}
+
+.background{
+    height: 486px;
+    width: 1920px;
+    margin-bottom: 200px;
+    position: relative;
+}
+
+
+
+
+
+.banner_2_Text_1 {
+    height: 22px;
+    width: 500px;
+    position: absolute;
+    top: 452px;
+    left: 691px;
+} 
+.banner_2_Text_1 h4{
+    font-size: 22px;
+    font-family: 'raleway';
+    color: #555555;
+}
+.banner_2_Text_2 {
+    height: 40px;
+    width: 720px;
+    position: absolute;
+    top: 501px;
+    left: 577px;
+}
+.banner_2_Text_2 p{
+    font-size: 16px;
+    font-family: 'raleway';
+    color: #9d9d9d;
+}
+.background_2 {
+    height: 200px;
+    width: 1920px;
+    background: #251d1a;
+    margin-bottom: 0px;
+    margin-top: 573px;
+}
+
+.BG_2_text_1{
+    height: 52px;
+    width: 586px;
+    margin-left: 375px;
+    margin-top: 74px;
+    float: left;
+}
+.BG_2_text_1 h1 {
+    font-family: 'raleway';
+    font-size: 27px;
+    color: #b7a48d;
+}
+.BG_2_text_1 p {
+    font-family: 'raleway';
+    font-size: 18px;
+    color: #555555;
+}
+.purchased {
+    width: 170px;
+    height: 52px;
+    border-radius: 3px;
+    margin-left: 1373px;
+    margin-top: 74px;
+}
+.purchased img{
+    margin-top: 74px;
+}
+
+/* banner two end here  */
